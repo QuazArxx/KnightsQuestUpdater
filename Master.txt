@@ -1,3 +1,5 @@
-<Version: 1.01?
-
+<Version: 1.01>
+/data/Map002.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map002.json
+/data/Map007.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map007.json
+/data/Map010.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map010.json
 <End of Version>
