@@ -4,7 +4,7 @@
 /data/Map010.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map010.json
 <End of Version>
 
-<Version: 1.10>
+<Version: 1.11>
 /data/Items.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Items.json
 /data/Classes.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Classes.json
 /data/Enemies.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Enemies.json
@@ -16,5 +16,6 @@
 /data/Map018.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map018.json
 /data/Map020.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map020.json
 /data/Map021.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map021.json
+/data/System.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/System.json
 /js/plugins.js https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/plugins.js
 <End of Version>
