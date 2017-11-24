@@ -4,7 +4,7 @@
 /data/Map010.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map010.json
 <End of Version>
 
-<Version: 1.11>
+<Version: 1.10>
 /data/Items.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Items.json
 /data/Classes.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Classes.json
 /data/Enemies.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Enemies.json
