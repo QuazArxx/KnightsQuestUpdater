@@ -20,7 +20,7 @@
 /js/plugins.js https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/plugins.js
 <End of Version>
 
-<Version 1.11?
+<Version: 1.11?
 /data/Map012.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map012.json
 /data/Map016.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map016.json
 /data/Map017.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map017.json
