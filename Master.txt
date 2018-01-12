@@ -27,3 +27,31 @@
 /data/Map018.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map018.json
 <End of Version>
 
+<Version: 2.0>
+/data/Map001.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map001.json
+/data/Map002.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map002.json
+/data/Map003.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map003.json
+/data/Map004.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map004.json
+/data/Map005.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map005.json
+/data/Map006.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map006.json
+/data/Map007.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map007.json
+/data/Map008.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map008.json
+/data/Map009.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map009.json
+/data/Map010.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map010.json
+/data/Map011.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map011.json
+/data/Map012.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map012.json
+/data/Map013.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map013.json
+/data/Map014.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map014.json
+/data/Map015.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map015.json
+/data/Map016.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map016.json
+/data/Map017.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map017.json
+/data/Map018.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map018.json
+/data/Map019.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map019.json
+/data/Map020.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map020.json
+/data/Map021.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map021.json
+/data/Map022.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/Map022.json
+/data/MapInfos.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/MapInfos.json
+/js/plugins/UPP_MINIMAP.js https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/UPP_MINIMAP.js
+/js/plugins.js https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/plugins.js
+/data/System.json https://raw.githubusercontent.com/QuazArxx/KnightsQuestUpdater/master/System.json
+<End of Version>
